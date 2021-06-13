@@ -1,21 +1,7 @@
-# loginsystem
-Node.js, express.js, ejs Login system containing session ids, admin logins &amp; dashboard!
+Login System
+This is the project demonstrate login express app created with node and express.
 
-
-##############################################
-
-
-              MADE BY POTLEGEND
-              
-                            
-##############################################  
-
-# STEPS TO RUN
-
+To run this project clone it and open up the terminal. and type a command,
 npm install
 
-cd login_system/
-
-THEN GO TO THE PACKAGE.JSON FILE
-
-npm start
+This command will install all the dependancy in the project.
